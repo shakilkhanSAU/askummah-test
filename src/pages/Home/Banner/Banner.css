@@ -1,0 +1,9 @@
+.banner-text {
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.banner {
+    height: calc(100vh - 53px);
+    padding-top: 30px;
+}
