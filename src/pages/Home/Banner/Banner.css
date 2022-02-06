@@ -1,9 +1,16 @@
 .banner-text {
     font-weight: bold;
-    font-size: 45px;
+    font-size: 2.5rem;
+    line-height: 3.7rem;
+    margin-bottom: 19px;
 }
 
 .banner {
-    height: calc(100vh - 53px);
-    padding-top: 30px;
+    padding-top: 20px;
+    overflow: hidden;
+    /* height: calc(100vh - 55px); */
+}
+
+.banner-image {
+    padding: 20px;
 }

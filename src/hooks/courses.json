@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Bangla (both paper)",
+        "courseCode": "c1",
+        "img": "https://i.ibb.co/k2vvyrV/Bangla-Goddo.png"
+    },
+    {
+        "title": "Endlish (both paper)",
+        "courseCode": "c2",
+        "img": "https://i.ibb.co/ccCLW7j/English-First.png"
+    },
+    {
+        "title": "General Mathemathics",
+        "courseCode": "c3",
+        "img": "https://i.ibb.co/r0wbYBN/Maths-One.png"
+    },
+    {
+        "title": "General Science",
+        "courseCode": "c4",
+        "img": "https://i.ibb.co/7GNNDZM/Physics-First.png"
+    },
+    {
+        "title": "Bangladesh and Global Studies",
+        "courseCode": "c5",
+        "img": "https://i.ibb.co/ZgC8pns/BGS.png"
+    },
+    {
+        "title": "Information and Communication Tech.",
+        "courseCode": "c6",
+        "img": "https://i.ibb.co/KD0yMVp/ICT.png"
+    }
+]

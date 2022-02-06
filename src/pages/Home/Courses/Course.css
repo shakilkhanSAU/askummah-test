@@ -1,0 +1,18 @@
+.course-img {
+    width: 80px;
+    padding-right: 10px;
+}
+
+.course {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.course-enroll {
+    cursor: pointer;
+    transition: ease .4s;
+}
+.course-enroll:hover{
+    background-color: rgb(209, 253, 233);   
+}

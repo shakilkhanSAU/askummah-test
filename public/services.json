@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Day Care",
+        "price": 46,
+        "serviceImg": "https://i.ibb.co/wMWX7MK/course1.png",
+        "description": "Types of special needs vary in severity. People with autism, Down syndrome, dyslexia, blindness, ADHD, or cystic fibrosis, for example, may be considered to have special needs. However, special needs can also include cleft lips, or missing limbs."
+    },
+    {
+        "title": "Writing Skill",
+        "price": 59,
+        "serviceImg": "https://i.ibb.co/VtYB56P/course2.jpg",
+        "description": "Types of special needs vary in severity. People with autism, Down syndrome, dyslexia, blindness, ADHD, or cystic fibrosis, for example, may be considered to have special needs. However, special needs can also include cleft lips, or missing limbs."
+    },
+    {
+        "title": "Dance and Signing",
+        "price": 65,
+        "serviceImg": "https://i.ibb.co/TMHMGYH/couse3.jpg",
+        "description": "Types of special needs vary in severity. People with autism, Down syndrome, dyslexia, blindness, ADHD, or cystic fibrosis, for example, may be considered to have special needs. However, special needs can also include cleft lips, or missing limbs."
+    },
+    {
+        "title": "Art and Musics",
+        "price": 49,
+        "serviceImg": "https://i.ibb.co/vL2pHRZ/course5.jpg",
+        "description": "Types of special needs vary in severity. People with autism, Down syndrome, dyslexia, blindness, ADHD, or cystic fibrosis, for example, may be considered to have special needs. However, special needs can also include cleft lips, or missing limbs."
+    },
+    {
+        "title": "Care for Abnormal Child",
+        "price": 45,
+        "serviceImg": "https://i.ibb.co/j3bgSvf/course4.jpg",
+        "description": "Types of special needs vary in severity. People with autism, Down syndrome, dyslexia, blindness, ADHD, or cystic fibrosis, for example, may be considered to have special needs. However, special needs can also include cleft lips, or missing limbs."
+    },
+    {
+        "title": "Teen Club",
+        "price": 52,
+        "serviceImg": "https://i.ibb.co/fX8yBdY/cousre6.png",
+        "description": "Types of special needs vary in severity. People with autism, Down syndrome, dyslexia, blindness, ADHD, or cystic fibrosis, for example, may be considered to have special needs. However, special needs can also include cleft lips, or missing limbs."
+    }
+]
